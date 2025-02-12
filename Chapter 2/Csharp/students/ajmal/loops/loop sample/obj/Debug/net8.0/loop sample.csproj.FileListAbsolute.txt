@@ -1,0 +1,14 @@
+C:\Users\AJMAL\source\repos\loop sample\bin\Debug\net8.0\loop sample.exe
+C:\Users\AJMAL\source\repos\loop sample\bin\Debug\net8.0\loop sample.deps.json
+C:\Users\AJMAL\source\repos\loop sample\bin\Debug\net8.0\loop sample.runtimeconfig.json
+C:\Users\AJMAL\source\repos\loop sample\bin\Debug\net8.0\loop sample.dll
+C:\Users\AJMAL\source\repos\loop sample\bin\Debug\net8.0\loop sample.pdb
+C:\Users\AJMAL\source\repos\loop sample\obj\Debug\net8.0\loop sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJMAL\source\repos\loop sample\obj\Debug\net8.0\loop sample.AssemblyInfoInputs.cache
+C:\Users\AJMAL\source\repos\loop sample\obj\Debug\net8.0\loop sample.AssemblyInfo.cs
+C:\Users\AJMAL\source\repos\loop sample\obj\Debug\net8.0\loop sample.csproj.CoreCompileInputs.cache
+C:\Users\AJMAL\source\repos\loop sample\obj\Debug\net8.0\loop sample.dll
+C:\Users\AJMAL\source\repos\loop sample\obj\Debug\net8.0\refint\loop sample.dll
+C:\Users\AJMAL\source\repos\loop sample\obj\Debug\net8.0\loop sample.pdb
+C:\Users\AJMAL\source\repos\loop sample\obj\Debug\net8.0\loop sample.genruntimeconfig.cache
+C:\Users\AJMAL\source\repos\loop sample\obj\Debug\net8.0\ref\loop sample.dll
