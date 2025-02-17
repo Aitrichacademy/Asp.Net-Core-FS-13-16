@@ -1,10 +1,13 @@
-﻿namespace Exercise_2
+﻿using System;
+
+namespace Exercise_2
 {
     internal class Program
     {
         static string email = "kps@";
         static string password = "123";
-        static List<CompanyMember> companyMembers = new List<CompanyMember>();
+        static CompanyMember[] companyMembers = new CompanyMember[10];
+        static int memberCount = 0; 
 
         static void Main(string[] args)
         {
@@ -31,7 +34,6 @@
                 else
                 {
                     Console.WriteLine("Invalid option. Try again.");
-                    Console.ReadLine();
                 }
             }
         }
@@ -92,23 +94,28 @@
             Console.WriteLine("UserId | Name    | Designation        | Email             | Phone");
             Console.WriteLine("---------------------------------------------------------------");
 
-            if (companyMembers.Count == 0)
+            if (memberCount == 0)
             {
                 Console.WriteLine("No members found.");
             }
             else
             {
-                int userId = 1;
-                foreach (var member in companyMembers)
+                for (int i = 0; i < memberCount; i++)
                 {
-                    Console.WriteLine($"{userId}      | {member.Name} | {member.Designation} | {member.Email} | {member.Phone}");
-                    userId++;
+                    var member = companyMembers[i];
+                    Console.WriteLine($"{i + 1}      | {member.Name} | {member.Designation} | {member.Email} | {member.Phone}");
                 }
             }
         }
 
         static void AddMember()
         {
+            if (memberCount >= companyMembers.Length)
+            {
+                Console.WriteLine("Member limit reached. Cannot add more members.");
+                return;
+            }
+
             Console.Write("\nPlease enter company member name: ");
             string name = Console.ReadLine();
 
@@ -121,7 +128,8 @@
             Console.Write("Please enter your phone number: ");
             string phone = Console.ReadLine();
 
-            companyMembers.Add(new CompanyMember(name, email, designation, phone));
+            companyMembers[memberCount] = new CompanyMember(name, email, designation, phone);
+            memberCount++;
             Console.WriteLine("Registration successful");
         }
     }
@@ -139,9 +147,6 @@
             Email = email;
             Designation = designation;
             Phone = phone;
-            Console.ReadLine();
         }
     }
 }
-
-
