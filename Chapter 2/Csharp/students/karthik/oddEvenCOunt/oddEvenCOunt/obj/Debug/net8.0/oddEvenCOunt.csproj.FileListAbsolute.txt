@@ -1,0 +1,14 @@
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\obj\Debug\net8.0\oddEvenCOunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\obj\Debug\net8.0\oddEvenCOunt.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\obj\Debug\net8.0\oddEvenCOunt.AssemblyInfo.cs
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\obj\Debug\net8.0\oddEvenCOunt.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\bin\Debug\net8.0\oddEvenCOunt.exe
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\bin\Debug\net8.0\oddEvenCOunt.deps.json
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\bin\Debug\net8.0\oddEvenCOunt.runtimeconfig.json
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\bin\Debug\net8.0\oddEvenCOunt.dll
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\bin\Debug\net8.0\oddEvenCOunt.pdb
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\obj\Debug\net8.0\oddEvenCOunt.dll
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\obj\Debug\net8.0\refint\oddEvenCOunt.dll
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\obj\Debug\net8.0\oddEvenCOunt.pdb
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\obj\Debug\net8.0\oddEvenCOunt.genruntimeconfig.cache
+C:\Users\karth\source\repos\oddEvenCOunt\oddEvenCOunt\obj\Debug\net8.0\ref\oddEvenCOunt.dll

@@ -1,0 +1,7 @@
+C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb

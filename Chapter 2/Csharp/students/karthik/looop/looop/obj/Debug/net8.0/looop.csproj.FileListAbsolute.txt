@@ -1,0 +1,14 @@
+C:\Users\karth\source\repos\looop\looop\obj\Debug\net8.0\looop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\looop\looop\obj\Debug\net8.0\looop.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\looop\looop\obj\Debug\net8.0\looop.AssemblyInfo.cs
+C:\Users\karth\source\repos\looop\looop\obj\Debug\net8.0\looop.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\looop\looop\bin\Debug\net8.0\looop.exe
+C:\Users\karth\source\repos\looop\looop\bin\Debug\net8.0\looop.deps.json
+C:\Users\karth\source\repos\looop\looop\bin\Debug\net8.0\looop.runtimeconfig.json
+C:\Users\karth\source\repos\looop\looop\bin\Debug\net8.0\looop.dll
+C:\Users\karth\source\repos\looop\looop\bin\Debug\net8.0\looop.pdb
+C:\Users\karth\source\repos\looop\looop\obj\Debug\net8.0\looop.dll
+C:\Users\karth\source\repos\looop\looop\obj\Debug\net8.0\refint\looop.dll
+C:\Users\karth\source\repos\looop\looop\obj\Debug\net8.0\looop.pdb
+C:\Users\karth\source\repos\looop\looop\obj\Debug\net8.0\looop.genruntimeconfig.cache
+C:\Users\karth\source\repos\looop\looop\obj\Debug\net8.0\ref\looop.dll

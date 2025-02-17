@@ -1,0 +1,14 @@
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\bin\Debug\net8.0\myFirstProgram.exe
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\bin\Debug\net8.0\myFirstProgram.deps.json
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\bin\Debug\net8.0\myFirstProgram.runtimeconfig.json
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\bin\Debug\net8.0\myFirstProgram.dll
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\bin\Debug\net8.0\myFirstProgram.pdb
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\obj\Debug\net8.0\myFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\obj\Debug\net8.0\myFirstProgram.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\obj\Debug\net8.0\myFirstProgram.AssemblyInfo.cs
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\obj\Debug\net8.0\myFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\obj\Debug\net8.0\myFirstProgram.dll
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\obj\Debug\net8.0\refint\myFirstProgram.dll
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\obj\Debug\net8.0\myFirstProgram.pdb
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\obj\Debug\net8.0\myFirstProgram.genruntimeconfig.cache
+C:\Users\karth\source\repos\myFirstProgram\myFirstProgram\obj\Debug\net8.0\ref\myFirstProgram.dll
