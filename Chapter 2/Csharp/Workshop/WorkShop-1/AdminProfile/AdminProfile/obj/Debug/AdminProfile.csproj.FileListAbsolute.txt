@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+D:\sahana\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+D:\sahana\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+D:\sahana\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+D:\sahana\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+D:\sahana\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+D:\sahana\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+D:\sahana\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
+=======
 C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
 C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
 C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
@@ -5,3 +14,4 @@ C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2
 C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
 C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
 C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
+>>>>>>> 2d487b30a1063706e83a157582183c6f97e105f9
