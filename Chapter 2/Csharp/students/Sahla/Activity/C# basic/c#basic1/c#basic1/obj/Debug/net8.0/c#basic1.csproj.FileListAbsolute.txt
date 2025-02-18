@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\bin\Debug\net8.0\c#basic1.exe
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\bin\Debug\net8.0\c#basic1.deps.json
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\bin\Debug\net8.0\c#basic1.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\bin\Debug\net8.0\c#basic1.dll
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\bin\Debug\net8.0\c#basic1.pdb
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\obj\Debug\net8.0\c#basic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\obj\Debug\net8.0\c#basic1.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\obj\Debug\net8.0\c#basic1.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\obj\Debug\net8.0\c#basic1.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\obj\Debug\net8.0\c#basic1.dll
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\obj\Debug\net8.0\refint\c#basic1.dll
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\obj\Debug\net8.0\c#basic1.pdb
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\obj\Debug\net8.0\c#basic1.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\c#basic1\c#basic1\obj\Debug\net8.0\ref\c#basic1.dll
