@@ -1,0 +1,14 @@
+C:\Users\AJMAL\source\repos\conditional statements\bin\Debug\net8.0\conditional statements.exe
+C:\Users\AJMAL\source\repos\conditional statements\bin\Debug\net8.0\conditional statements.deps.json
+C:\Users\AJMAL\source\repos\conditional statements\bin\Debug\net8.0\conditional statements.runtimeconfig.json
+C:\Users\AJMAL\source\repos\conditional statements\bin\Debug\net8.0\conditional statements.dll
+C:\Users\AJMAL\source\repos\conditional statements\bin\Debug\net8.0\conditional statements.pdb
+C:\Users\AJMAL\source\repos\conditional statements\obj\Debug\net8.0\conditional statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJMAL\source\repos\conditional statements\obj\Debug\net8.0\conditional statements.AssemblyInfoInputs.cache
+C:\Users\AJMAL\source\repos\conditional statements\obj\Debug\net8.0\conditional statements.AssemblyInfo.cs
+C:\Users\AJMAL\source\repos\conditional statements\obj\Debug\net8.0\conditional statements.csproj.CoreCompileInputs.cache
+C:\Users\AJMAL\source\repos\conditional statements\obj\Debug\net8.0\conditional statements.dll
+C:\Users\AJMAL\source\repos\conditional statements\obj\Debug\net8.0\refint\conditional statements.dll
+C:\Users\AJMAL\source\repos\conditional statements\obj\Debug\net8.0\conditional statements.pdb
+C:\Users\AJMAL\source\repos\conditional statements\obj\Debug\net8.0\conditional statements.genruntimeconfig.cache
+C:\Users\AJMAL\source\repos\conditional statements\obj\Debug\net8.0\ref\conditional statements.dll

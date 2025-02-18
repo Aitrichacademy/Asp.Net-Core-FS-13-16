@@ -1,0 +1,14 @@
+C:\Users\AJMAL\source\repos\sructure method\bin\Debug\net8.0\sructure method.exe
+C:\Users\AJMAL\source\repos\sructure method\bin\Debug\net8.0\sructure method.deps.json
+C:\Users\AJMAL\source\repos\sructure method\bin\Debug\net8.0\sructure method.runtimeconfig.json
+C:\Users\AJMAL\source\repos\sructure method\bin\Debug\net8.0\sructure method.dll
+C:\Users\AJMAL\source\repos\sructure method\bin\Debug\net8.0\sructure method.pdb
+C:\Users\AJMAL\source\repos\sructure method\obj\Debug\net8.0\sructure method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJMAL\source\repos\sructure method\obj\Debug\net8.0\sructure method.AssemblyInfoInputs.cache
+C:\Users\AJMAL\source\repos\sructure method\obj\Debug\net8.0\sructure method.AssemblyInfo.cs
+C:\Users\AJMAL\source\repos\sructure method\obj\Debug\net8.0\sructure method.csproj.CoreCompileInputs.cache
+C:\Users\AJMAL\source\repos\sructure method\obj\Debug\net8.0\sructure method.dll
+C:\Users\AJMAL\source\repos\sructure method\obj\Debug\net8.0\refint\sructure method.dll
+C:\Users\AJMAL\source\repos\sructure method\obj\Debug\net8.0\sructure method.pdb
+C:\Users\AJMAL\source\repos\sructure method\obj\Debug\net8.0\sructure method.genruntimeconfig.cache
+C:\Users\AJMAL\source\repos\sructure method\obj\Debug\net8.0\ref\sructure method.dll

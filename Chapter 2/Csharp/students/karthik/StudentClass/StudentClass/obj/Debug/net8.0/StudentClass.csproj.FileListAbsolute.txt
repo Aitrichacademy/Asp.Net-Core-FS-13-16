@@ -1,0 +1,14 @@
+C:\Users\karth\source\repos\StudentClass\StudentClass\bin\Debug\net8.0\StudentClass.exe
+C:\Users\karth\source\repos\StudentClass\StudentClass\bin\Debug\net8.0\StudentClass.deps.json
+C:\Users\karth\source\repos\StudentClass\StudentClass\bin\Debug\net8.0\StudentClass.runtimeconfig.json
+C:\Users\karth\source\repos\StudentClass\StudentClass\bin\Debug\net8.0\StudentClass.dll
+C:\Users\karth\source\repos\StudentClass\StudentClass\bin\Debug\net8.0\StudentClass.pdb
+C:\Users\karth\source\repos\StudentClass\StudentClass\obj\Debug\net8.0\StudentClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\StudentClass\StudentClass\obj\Debug\net8.0\StudentClass.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\StudentClass\StudentClass\obj\Debug\net8.0\StudentClass.AssemblyInfo.cs
+C:\Users\karth\source\repos\StudentClass\StudentClass\obj\Debug\net8.0\StudentClass.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\StudentClass\StudentClass\obj\Debug\net8.0\StudentClass.dll
+C:\Users\karth\source\repos\StudentClass\StudentClass\obj\Debug\net8.0\refint\StudentClass.dll
+C:\Users\karth\source\repos\StudentClass\StudentClass\obj\Debug\net8.0\StudentClass.pdb
+C:\Users\karth\source\repos\StudentClass\StudentClass\obj\Debug\net8.0\StudentClass.genruntimeconfig.cache
+C:\Users\karth\source\repos\StudentClass\StudentClass\obj\Debug\net8.0\ref\StudentClass.dll

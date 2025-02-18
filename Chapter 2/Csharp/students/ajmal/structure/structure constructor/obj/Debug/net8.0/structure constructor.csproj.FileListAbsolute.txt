@@ -1,0 +1,14 @@
+C:\Users\AJMAL\source\repos\structure constructor\bin\Debug\net8.0\structure constructor.exe
+C:\Users\AJMAL\source\repos\structure constructor\bin\Debug\net8.0\structure constructor.deps.json
+C:\Users\AJMAL\source\repos\structure constructor\bin\Debug\net8.0\structure constructor.runtimeconfig.json
+C:\Users\AJMAL\source\repos\structure constructor\bin\Debug\net8.0\structure constructor.dll
+C:\Users\AJMAL\source\repos\structure constructor\bin\Debug\net8.0\structure constructor.pdb
+C:\Users\AJMAL\source\repos\structure constructor\obj\Debug\net8.0\structure constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJMAL\source\repos\structure constructor\obj\Debug\net8.0\structure constructor.AssemblyInfoInputs.cache
+C:\Users\AJMAL\source\repos\structure constructor\obj\Debug\net8.0\structure constructor.AssemblyInfo.cs
+C:\Users\AJMAL\source\repos\structure constructor\obj\Debug\net8.0\structure constructor.csproj.CoreCompileInputs.cache
+C:\Users\AJMAL\source\repos\structure constructor\obj\Debug\net8.0\structure constructor.dll
+C:\Users\AJMAL\source\repos\structure constructor\obj\Debug\net8.0\refint\structure constructor.dll
+C:\Users\AJMAL\source\repos\structure constructor\obj\Debug\net8.0\structure constructor.pdb
+C:\Users\AJMAL\source\repos\structure constructor\obj\Debug\net8.0\structure constructor.genruntimeconfig.cache
+C:\Users\AJMAL\source\repos\structure constructor\obj\Debug\net8.0\ref\structure constructor.dll

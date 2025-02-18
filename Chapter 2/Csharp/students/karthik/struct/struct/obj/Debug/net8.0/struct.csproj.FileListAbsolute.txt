@@ -1,0 +1,14 @@
+C:\Users\karth\source\repos\struct\struct\bin\Debug\net8.0\struct.exe
+C:\Users\karth\source\repos\struct\struct\bin\Debug\net8.0\struct.deps.json
+C:\Users\karth\source\repos\struct\struct\bin\Debug\net8.0\struct.runtimeconfig.json
+C:\Users\karth\source\repos\struct\struct\bin\Debug\net8.0\struct.dll
+C:\Users\karth\source\repos\struct\struct\bin\Debug\net8.0\struct.pdb
+C:\Users\karth\source\repos\struct\struct\obj\Debug\net8.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\struct\struct\obj\Debug\net8.0\struct.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\struct\struct\obj\Debug\net8.0\struct.AssemblyInfo.cs
+C:\Users\karth\source\repos\struct\struct\obj\Debug\net8.0\struct.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\struct\struct\obj\Debug\net8.0\struct.dll
+C:\Users\karth\source\repos\struct\struct\obj\Debug\net8.0\refint\struct.dll
+C:\Users\karth\source\repos\struct\struct\obj\Debug\net8.0\struct.pdb
+C:\Users\karth\source\repos\struct\struct\obj\Debug\net8.0\struct.genruntimeconfig.cache
+C:\Users\karth\source\repos\struct\struct\obj\Debug\net8.0\ref\struct.dll

@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\sahana\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-1\\AdminProfile\\",
+=======
+  "WorkspaceRootPath": "C:\\Users\\karth\\OneDrive\\Desktop\\Aitrich Bootcamp\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-1\\AdminProfile\\",
+>>>>>>> 2d487b30a1063706e83a157582183c6f97e105f9
   "Documents": [],
   "DocumentGroupContainers": [
     {

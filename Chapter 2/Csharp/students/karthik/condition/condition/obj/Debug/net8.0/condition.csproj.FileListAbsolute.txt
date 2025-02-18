@@ -1,0 +1,14 @@
+C:\Users\karth\source\repos\condition\condition\bin\Debug\net8.0\condition.exe
+C:\Users\karth\source\repos\condition\condition\bin\Debug\net8.0\condition.deps.json
+C:\Users\karth\source\repos\condition\condition\bin\Debug\net8.0\condition.runtimeconfig.json
+C:\Users\karth\source\repos\condition\condition\bin\Debug\net8.0\condition.dll
+C:\Users\karth\source\repos\condition\condition\bin\Debug\net8.0\condition.pdb
+C:\Users\karth\source\repos\condition\condition\obj\Debug\net8.0\condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\condition\condition\obj\Debug\net8.0\condition.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\condition\condition\obj\Debug\net8.0\condition.AssemblyInfo.cs
+C:\Users\karth\source\repos\condition\condition\obj\Debug\net8.0\condition.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\condition\condition\obj\Debug\net8.0\condition.dll
+C:\Users\karth\source\repos\condition\condition\obj\Debug\net8.0\refint\condition.dll
+C:\Users\karth\source\repos\condition\condition\obj\Debug\net8.0\condition.pdb
+C:\Users\karth\source\repos\condition\condition\obj\Debug\net8.0\condition.genruntimeconfig.cache
+C:\Users\karth\source\repos\condition\condition\obj\Debug\net8.0\ref\condition.dll
