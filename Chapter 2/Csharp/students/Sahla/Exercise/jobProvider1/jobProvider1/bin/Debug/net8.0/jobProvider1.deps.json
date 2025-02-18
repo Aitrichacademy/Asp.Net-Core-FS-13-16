@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "jobProvider1/1.0.0": {
+        "runtime": {
+          "jobProvider1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jobProvider1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\bin\Debug\net8.0\conditionalstatements.exe
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\bin\Debug\net8.0\conditionalstatements.deps.json
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\bin\Debug\net8.0\conditionalstatements.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\bin\Debug\net8.0\conditionalstatements.dll
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\bin\Debug\net8.0\conditionalstatements.pdb
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\obj\Debug\net8.0\conditionalstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\obj\Debug\net8.0\conditionalstatements.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\obj\Debug\net8.0\conditionalstatements.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\obj\Debug\net8.0\conditionalstatements.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\obj\Debug\net8.0\conditionalstatements.dll
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\obj\Debug\net8.0\refint\conditionalstatements.dll
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\obj\Debug\net8.0\conditionalstatements.pdb
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\obj\Debug\net8.0\conditionalstatements.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\conditionalstatements\conditionalstatements\obj\Debug\net8.0\ref\conditionalstatements.dll

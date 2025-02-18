@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\bin\Debug\net8.0\arrayqstn3a.exe
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\bin\Debug\net8.0\arrayqstn3a.deps.json
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\bin\Debug\net8.0\arrayqstn3a.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\bin\Debug\net8.0\arrayqstn3a.dll
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\bin\Debug\net8.0\arrayqstn3a.pdb
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\obj\Debug\net8.0\arrayqstn3a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\obj\Debug\net8.0\arrayqstn3a.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\obj\Debug\net8.0\arrayqstn3a.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\obj\Debug\net8.0\arrayqstn3a.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\obj\Debug\net8.0\arrayqstn3a.dll
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\obj\Debug\net8.0\refint\arrayqstn3a.dll
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\obj\Debug\net8.0\arrayqstn3a.pdb
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\obj\Debug\net8.0\arrayqstn3a.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\arrayqstn3a\arrayqstn3a\obj\Debug\net8.0\ref\arrayqstn3a.dll

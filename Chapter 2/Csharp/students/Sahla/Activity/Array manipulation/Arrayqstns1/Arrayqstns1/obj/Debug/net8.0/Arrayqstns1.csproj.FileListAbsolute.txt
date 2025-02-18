@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\bin\Debug\net8.0\Arrayqstns1.exe
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\bin\Debug\net8.0\Arrayqstns1.deps.json
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\bin\Debug\net8.0\Arrayqstns1.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\bin\Debug\net8.0\Arrayqstns1.dll
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\bin\Debug\net8.0\Arrayqstns1.pdb
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\obj\Debug\net8.0\Arrayqstns1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\obj\Debug\net8.0\Arrayqstns1.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\obj\Debug\net8.0\Arrayqstns1.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\obj\Debug\net8.0\Arrayqstns1.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\obj\Debug\net8.0\Arrayqstns1.dll
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\obj\Debug\net8.0\refint\Arrayqstns1.dll
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\obj\Debug\net8.0\Arrayqstns1.pdb
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\obj\Debug\net8.0\Arrayqstns1.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\Arrayqstns1\Arrayqstns1\obj\Debug\net8.0\ref\Arrayqstns1.dll
