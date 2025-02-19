@@ -1,0 +1,7 @@
+D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
