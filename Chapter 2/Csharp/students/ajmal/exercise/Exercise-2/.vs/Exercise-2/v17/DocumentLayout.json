@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AJMAL\\OneDrive\\Desktop\\Ahamed Ajmal\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\students\\ajmal\\exercise\\Exercise-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{327E3EEF-7A7B-4F63-ACF0-FD99C499BE6C}|Exercise-2.csproj|c:\\users\\ajmal\\onedrive\\desktop\\ahamed ajmal\\asp.net-core-fs-13-16\\chapter 2\\csharp\\students\\ajmal\\exercise\\exercise-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327E3EEF-7A7B-4F63-ACF0-FD99C499BE6C}|Exercise-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AJMAL\\OneDrive\\Desktop\\Ahamed Ajmal\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\students\\ajmal\\exercise\\Exercise-2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AJMAL\\OneDrive\\Desktop\\Ahamed Ajmal\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\students\\ajmal\\exercise\\Exercise-2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:07:56.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

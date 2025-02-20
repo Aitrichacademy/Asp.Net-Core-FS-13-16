@@ -1,4 +1,13 @@
 <<<<<<< HEAD
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+C:\Users\AJMAL\OneDrive\Desktop\Ahamed Ajmal\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
+=======
+<<<<<<< HEAD
 D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
 D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
 D:\Git\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
@@ -25,3 +34,4 @@ C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2
 C:\Users\karth\OneDrive\Desktop\Aitrich Bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
 >>>>>>> 2d487b30a1063706e83a157582183c6f97e105f9
 >>>>>>> cd8a51fc57d5615767822bc18bbbde03b8e567e0
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae

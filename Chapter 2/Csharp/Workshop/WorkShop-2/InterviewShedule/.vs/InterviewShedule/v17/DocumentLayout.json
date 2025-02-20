@@ -1,6 +1,10 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\AJMAL\\OneDrive\\Desktop\\Ahamed Ajmal\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\",
+  "Documents": [],
+=======
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Git\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\",
   "Documents": [
     {
@@ -14,6 +18,7 @@
       "RelativeMoniker": "D:0:0:{68E03A76-5627-4CE8-A181-965AD4B32B0D}|InterviewShedule\\InterviewShedule.csproj|solutionrelative:interviewshedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -21,6 +26,9 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": -1,
+=======
 <<<<<<< HEAD
           "SelectedChildIndex": 0,
           "Children": [
@@ -37,10 +45,13 @@
               "WhenOpened": "2025-02-17T06:11:26.083Z",
 =======
           "SelectedChildIndex": 1,
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+<<<<<<< HEAD
+=======
             },
             {
               "$type": "Document",
@@ -55,6 +66,7 @@
               "WhenOpened": "2025-02-17T04:40:25.743Z",
 >>>>>>> cd8a51fc57d5615767822bc18bbbde03b8e567e0
               "EditorCaption": ""
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
             }
           ]
         }

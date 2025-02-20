@@ -1,6 +1,10 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\AJMAL\\OneDrive\\Desktop\\Ahamed Ajmal\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-1\\AdminProfile\\",
+  "Documents": [],
+=======
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Git\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-1\\AdminProfile\\",
   "Documents": [
     {
@@ -20,10 +24,21 @@
 >>>>>>> 2d487b30a1063706e83a157582183c6f97e105f9
   "Documents": [],
 >>>>>>> cd8a51fc57d5615767822bc18bbbde03b8e567e0
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+=======
 <<<<<<< HEAD
       "DocumentGroups": [
         {
@@ -59,13 +74,17 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T05:57:18.58Z",
               "EditorCaption": ""
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
             }
           ]
         }
       ]
+<<<<<<< HEAD
+=======
 =======
       "DocumentGroups": []
 >>>>>>> cd8a51fc57d5615767822bc18bbbde03b8e567e0
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
     }
   ]
 }
