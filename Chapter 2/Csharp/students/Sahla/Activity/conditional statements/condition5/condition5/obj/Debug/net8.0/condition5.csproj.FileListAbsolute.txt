@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\bin\Debug\net8.0\condition5.exe
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\bin\Debug\net8.0\condition5.deps.json
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\bin\Debug\net8.0\condition5.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\bin\Debug\net8.0\condition5.dll
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\bin\Debug\net8.0\condition5.pdb
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\obj\Debug\net8.0\condition5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\obj\Debug\net8.0\condition5.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\obj\Debug\net8.0\condition5.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\obj\Debug\net8.0\condition5.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\obj\Debug\net8.0\condition5.dll
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\obj\Debug\net8.0\refint\condition5.dll
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\obj\Debug\net8.0\condition5.pdb
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\obj\Debug\net8.0\condition5.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\condition5\condition5\obj\Debug\net8.0\ref\condition5.dll

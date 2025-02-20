@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\obj\Debug\net8.0\Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\obj\Debug\net8.0\Workshop.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\obj\Debug\net8.0\Workshop.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\obj\Debug\net8.0\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\bin\Debug\net8.0\Workshop.exe
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\bin\Debug\net8.0\Workshop.deps.json
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\bin\Debug\net8.0\Workshop.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\bin\Debug\net8.0\Workshop.dll
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\bin\Debug\net8.0\Workshop.pdb
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\obj\Debug\net8.0\Workshop.dll
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\obj\Debug\net8.0\refint\Workshop.dll
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\obj\Debug\net8.0\Workshop.pdb
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\obj\Debug\net8.0\Workshop.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\Workshop\Workshop\obj\Debug\net8.0\ref\Workshop.dll

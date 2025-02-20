@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sahla Yasmine\\source\\repos\\c#basic1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77121449-9E17-44B6-8C64-C178034FE578}|c#basic1\\c#basic1.csproj|c:\\users\\sahla yasmine\\source\\repos\\c#basic1\\c#basic1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77121449-9E17-44B6-8C64-C178034FE578}|c#basic1\\c#basic1.csproj|solutionrelative:c#basic1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sahla Yasmine\\source\\repos\\c#basic1\\c#basic1\\Program.cs",
+              "RelativeDocumentMoniker": "c#basic1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sahla Yasmine\\source\\repos\\c#basic1\\c#basic1\\Program.cs",
+              "RelativeToolTip": "c#basic1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:16:05.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

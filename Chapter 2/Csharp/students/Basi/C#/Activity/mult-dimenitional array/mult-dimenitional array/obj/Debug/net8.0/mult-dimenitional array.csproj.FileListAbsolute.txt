@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\bin\Debug\net8.0\mult-dimenitional array.exe
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\bin\Debug\net8.0\mult-dimenitional array.deps.json
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\bin\Debug\net8.0\mult-dimenitional array.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\bin\Debug\net8.0\mult-dimenitional array.dll
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\bin\Debug\net8.0\mult-dimenitional array.pdb
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\obj\Debug\net8.0\mult-dimenitional array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\obj\Debug\net8.0\mult-dimenitional array.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\obj\Debug\net8.0\mult-dimenitional array.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\obj\Debug\net8.0\mult-dimenitional array.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\obj\Debug\net8.0\mult-dimenitional array.dll
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\obj\Debug\net8.0\refint\mult-dimenitional array.dll
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\obj\Debug\net8.0\mult-dimenitional array.pdb
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\obj\Debug\net8.0\mult-dimenitional array.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\mult-dimenitional array\mult-dimenitional array\obj\Debug\net8.0\ref\mult-dimenitional array.dll

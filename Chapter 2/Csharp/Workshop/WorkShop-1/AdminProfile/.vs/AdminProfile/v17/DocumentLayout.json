@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Git\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-1\\AdminProfile\\",
   "Documents": [
     {
@@ -11,10 +12,19 @@
       "RelativeMoniker": "D:0:0:{0436B212-65C6-4CCC-BFF7-D4FA4CE2A8F8}|AdminProfile\\AdminProfile.csproj|solutionrelative:adminprofile\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\sahana\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-1\\AdminProfile\\",
+=======
+  "WorkspaceRootPath": "C:\\Users\\karth\\OneDrive\\Desktop\\Aitrich Bootcamp\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-1\\AdminProfile\\",
+>>>>>>> 2d487b30a1063706e83a157582183c6f97e105f9
+  "Documents": [],
+>>>>>>> cd8a51fc57d5615767822bc18bbbde03b8e567e0
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -53,6 +63,9 @@
           ]
         }
       ]
+=======
+      "DocumentGroups": []
+>>>>>>> cd8a51fc57d5615767822bc18bbbde03b8e567e0
     }
   ]
 }

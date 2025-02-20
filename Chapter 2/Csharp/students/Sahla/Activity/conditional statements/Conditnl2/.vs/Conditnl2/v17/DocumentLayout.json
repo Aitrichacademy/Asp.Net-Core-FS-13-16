@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sahla Yasmine\\source\\repos\\Conditnl2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07F3BB24-62FA-4EDA-B2B9-531F4CE4EF84}|Conditnl2\\Conditnl2.csproj|c:\\users\\sahla yasmine\\source\\repos\\conditnl2\\conditnl2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F3BB24-62FA-4EDA-B2B9-531F4CE4EF84}|Conditnl2\\Conditnl2.csproj|solutionrelative:conditnl2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sahla Yasmine\\source\\repos\\Conditnl2\\Conditnl2\\Program.cs",
+              "RelativeDocumentMoniker": "Conditnl2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sahla Yasmine\\source\\repos\\Conditnl2\\Conditnl2\\Program.cs",
+              "RelativeToolTip": "Conditnl2\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:46:48.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

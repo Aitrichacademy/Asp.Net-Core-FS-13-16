@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\bin\Debug\net8.0\structure2.exe
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\bin\Debug\net8.0\structure2.deps.json
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\bin\Debug\net8.0\structure2.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\bin\Debug\net8.0\structure2.dll
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\bin\Debug\net8.0\structure2.pdb
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\obj\Debug\net8.0\structure2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\obj\Debug\net8.0\structure2.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\obj\Debug\net8.0\structure2.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\obj\Debug\net8.0\structure2.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\obj\Debug\net8.0\structure2.dll
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\obj\Debug\net8.0\refint\structure2.dll
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\obj\Debug\net8.0\structure2.pdb
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\obj\Debug\net8.0\structure2.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\structure2\structure2\obj\Debug\net8.0\ref\structure2.dll

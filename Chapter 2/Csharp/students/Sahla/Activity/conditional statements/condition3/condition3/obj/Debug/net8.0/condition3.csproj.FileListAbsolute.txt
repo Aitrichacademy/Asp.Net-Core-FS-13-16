@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\bin\Debug\net8.0\condition3.exe
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\bin\Debug\net8.0\condition3.deps.json
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\bin\Debug\net8.0\condition3.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\bin\Debug\net8.0\condition3.dll
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\bin\Debug\net8.0\condition3.pdb
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\obj\Debug\net8.0\condition3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\obj\Debug\net8.0\condition3.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\obj\Debug\net8.0\condition3.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\obj\Debug\net8.0\condition3.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\obj\Debug\net8.0\condition3.dll
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\obj\Debug\net8.0\refint\condition3.dll
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\obj\Debug\net8.0\condition3.pdb
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\obj\Debug\net8.0\condition3.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\condition3\condition3\obj\Debug\net8.0\ref\condition3.dll

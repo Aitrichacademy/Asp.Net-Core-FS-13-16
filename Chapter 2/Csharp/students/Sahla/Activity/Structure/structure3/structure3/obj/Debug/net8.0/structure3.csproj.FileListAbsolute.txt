@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\bin\Debug\net8.0\structure3.exe
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\bin\Debug\net8.0\structure3.deps.json
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\bin\Debug\net8.0\structure3.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\bin\Debug\net8.0\structure3.dll
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\bin\Debug\net8.0\structure3.pdb
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\obj\Debug\net8.0\structure3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\obj\Debug\net8.0\structure3.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\obj\Debug\net8.0\structure3.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\obj\Debug\net8.0\structure3.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\obj\Debug\net8.0\structure3.dll
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\obj\Debug\net8.0\refint\structure3.dll
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\obj\Debug\net8.0\structure3.pdb
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\obj\Debug\net8.0\structure3.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\structure3\structure3\obj\Debug\net8.0\ref\structure3.dll
