@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\bin\Debug\net8.0\Structure-h.w.exe
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\bin\Debug\net8.0\Structure-h.w.deps.json
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\bin\Debug\net8.0\Structure-h.w.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\bin\Debug\net8.0\Structure-h.w.dll
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\bin\Debug\net8.0\Structure-h.w.pdb
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\obj\Debug\net8.0\Structure-h.w.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\obj\Debug\net8.0\Structure-h.w.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\obj\Debug\net8.0\Structure-h.w.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\obj\Debug\net8.0\Structure-h.w.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\obj\Debug\net8.0\Structure-h.w.dll
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\obj\Debug\net8.0\refint\Structure-h.w.dll
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\obj\Debug\net8.0\Structure-h.w.pdb
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\obj\Debug\net8.0\Structure-h.w.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\Structure-h.w\Structure-h.w\obj\Debug\net8.0\ref\Structure-h.w.dll

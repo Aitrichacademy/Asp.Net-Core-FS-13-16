@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\bin\Debug\net8.0\largest of 3 numbers.exe
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\bin\Debug\net8.0\largest of 3 numbers.deps.json
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\bin\Debug\net8.0\largest of 3 numbers.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\bin\Debug\net8.0\largest of 3 numbers.dll
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\bin\Debug\net8.0\largest of 3 numbers.pdb
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\obj\Debug\net8.0\largest of 3 numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\obj\Debug\net8.0\largest of 3 numbers.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\obj\Debug\net8.0\largest of 3 numbers.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\obj\Debug\net8.0\largest of 3 numbers.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\obj\Debug\net8.0\largest of 3 numbers.dll
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\obj\Debug\net8.0\refint\largest of 3 numbers.dll
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\obj\Debug\net8.0\largest of 3 numbers.pdb
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\obj\Debug\net8.0\largest of 3 numbers.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\largest of 3 numbers\largest of 3 numbers\obj\Debug\net8.0\ref\largest of 3 numbers.dll

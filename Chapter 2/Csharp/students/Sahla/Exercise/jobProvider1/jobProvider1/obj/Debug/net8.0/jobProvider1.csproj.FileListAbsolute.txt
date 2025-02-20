@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\bin\Debug\net8.0\jobProvider1.exe
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\bin\Debug\net8.0\jobProvider1.deps.json
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\bin\Debug\net8.0\jobProvider1.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\bin\Debug\net8.0\jobProvider1.dll
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\bin\Debug\net8.0\jobProvider1.pdb
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\obj\Debug\net8.0\jobProvider1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\obj\Debug\net8.0\jobProvider1.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\obj\Debug\net8.0\jobProvider1.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\obj\Debug\net8.0\jobProvider1.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\obj\Debug\net8.0\jobProvider1.dll
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\obj\Debug\net8.0\refint\jobProvider1.dll
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\obj\Debug\net8.0\jobProvider1.pdb
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\obj\Debug\net8.0\jobProvider1.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\jobProvider1\jobProvider1\obj\Debug\net8.0\ref\jobProvider1.dll

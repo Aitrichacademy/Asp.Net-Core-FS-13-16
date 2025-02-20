@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\structure\structure\bin\Debug\net8.0\structure.exe
+C:\Users\ABDUL BASITH\source\repos\structure\structure\bin\Debug\net8.0\structure.deps.json
+C:\Users\ABDUL BASITH\source\repos\structure\structure\bin\Debug\net8.0\structure.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\structure\structure\bin\Debug\net8.0\structure.dll
+C:\Users\ABDUL BASITH\source\repos\structure\structure\bin\Debug\net8.0\structure.pdb
+C:\Users\ABDUL BASITH\source\repos\structure\structure\obj\Debug\net8.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\structure\structure\obj\Debug\net8.0\structure.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\structure\structure\obj\Debug\net8.0\structure.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\structure\structure\obj\Debug\net8.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\structure\structure\obj\Debug\net8.0\structure.dll
+C:\Users\ABDUL BASITH\source\repos\structure\structure\obj\Debug\net8.0\refint\structure.dll
+C:\Users\ABDUL BASITH\source\repos\structure\structure\obj\Debug\net8.0\structure.pdb
+C:\Users\ABDUL BASITH\source\repos\structure\structure\obj\Debug\net8.0\structure.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\structure\structure\obj\Debug\net8.0\ref\structure.dll

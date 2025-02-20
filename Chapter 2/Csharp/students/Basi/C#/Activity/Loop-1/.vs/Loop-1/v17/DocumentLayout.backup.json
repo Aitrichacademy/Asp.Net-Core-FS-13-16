@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABDUL BASITH\\source\\repos\\Loop-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11DDB67-5144-45F2-9D84-8D243ED18261}|Loop-1\\Loop-1.csproj|c:\\users\\abdul basith\\source\\repos\\loop-1\\loop-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11DDB67-5144-45F2-9D84-8D243ED18261}|Loop-1\\Loop-1.csproj|solutionrelative:loop-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABDUL BASITH\\source\\repos\\Loop-1\\Loop-1\\Program.cs",
+              "RelativeDocumentMoniker": "Loop-1\\Program.cs",
+              "ToolTip": "C:\\Users\\ABDUL BASITH\\source\\repos\\Loop-1\\Loop-1\\Program.cs*",
+              "RelativeToolTip": "Loop-1\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:26:51.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -53,7 +53,7 @@ namespace InterviewShedule
                                 Console.WriteLine("Enter the Time of a Interview(h-m)");
                                 shedule[i].time = Console.ReadLine();
                                 Console.Write("Location of sheduled InterView {0}: ", i + 1);
-                                shedule[i].Location = Console.ReadLine();
+                       1         shedule[i].Location = Console.ReadLine();
                                 Console.WriteLine("------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n");
 
                             }
