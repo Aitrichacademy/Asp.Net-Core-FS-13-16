@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\bin\Debug\net8.0\arrayquestion.exe
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\bin\Debug\net8.0\arrayquestion.deps.json
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\bin\Debug\net8.0\arrayquestion.runtimeconfig.json
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\bin\Debug\net8.0\arrayquestion.dll
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\bin\Debug\net8.0\arrayquestion.pdb
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\obj\Debug\net8.0\arrayquestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\obj\Debug\net8.0\arrayquestion.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\obj\Debug\net8.0\arrayquestion.AssemblyInfo.cs
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\obj\Debug\net8.0\arrayquestion.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\obj\Debug\net8.0\arrayquestion.dll
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\obj\Debug\net8.0\refint\arrayquestion.dll
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\obj\Debug\net8.0\arrayquestion.pdb
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\obj\Debug\net8.0\arrayquestion.genruntimeconfig.cache
+C:\Users\USER\source\repos\arrayquestion\arrayquestion\obj\Debug\net8.0\ref\arrayquestion.dll
