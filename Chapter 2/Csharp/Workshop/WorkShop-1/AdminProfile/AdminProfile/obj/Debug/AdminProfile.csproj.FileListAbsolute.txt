@@ -1,7 +1,0 @@
-C:\Users\apple\Desktop\Aitrich bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
-C:\Users\apple\Desktop\Aitrich bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
-C:\Users\apple\Desktop\Aitrich bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
-C:\Users\apple\Desktop\Aitrich bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
-C:\Users\apple\Desktop\Aitrich bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
-C:\Users\apple\Desktop\Aitrich bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
-C:\Users\apple\Desktop\Aitrich bootcamp\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
