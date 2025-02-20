@@ -1,0 +1,14 @@
+C:\Users\apple\source\repos\activity1\activity1\bin\Debug\net8.0\activity1.exe
+C:\Users\apple\source\repos\activity1\activity1\bin\Debug\net8.0\activity1.deps.json
+C:\Users\apple\source\repos\activity1\activity1\bin\Debug\net8.0\activity1.runtimeconfig.json
+C:\Users\apple\source\repos\activity1\activity1\bin\Debug\net8.0\activity1.dll
+C:\Users\apple\source\repos\activity1\activity1\bin\Debug\net8.0\activity1.pdb
+C:\Users\apple\source\repos\activity1\activity1\obj\Debug\net8.0\activity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apple\source\repos\activity1\activity1\obj\Debug\net8.0\activity1.AssemblyInfoInputs.cache
+C:\Users\apple\source\repos\activity1\activity1\obj\Debug\net8.0\activity1.AssemblyInfo.cs
+C:\Users\apple\source\repos\activity1\activity1\obj\Debug\net8.0\activity1.csproj.CoreCompileInputs.cache
+C:\Users\apple\source\repos\activity1\activity1\obj\Debug\net8.0\activity1.dll
+C:\Users\apple\source\repos\activity1\activity1\obj\Debug\net8.0\refint\activity1.dll
+C:\Users\apple\source\repos\activity1\activity1\obj\Debug\net8.0\activity1.pdb
+C:\Users\apple\source\repos\activity1\activity1\obj\Debug\net8.0\activity1.genruntimeconfig.cache
+C:\Users\apple\source\repos\activity1\activity1\obj\Debug\net8.0\ref\activity1.dll

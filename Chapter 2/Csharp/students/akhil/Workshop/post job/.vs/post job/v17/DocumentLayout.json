@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apple\\Desktop\\Aitrich bootcamp\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\students\\akhil\\Workshop\\post job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5AA9D-1FD2-4B8B-A766-8E1E77DCB3C1}|post job\\post job.csproj|c:\\users\\apple\\desktop\\aitrich bootcamp\\asp.net-core-fs-13-16\\chapter 2\\csharp\\students\\akhil\\workshop\\post job\\post job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5AA9D-1FD2-4B8B-A766-8E1E77DCB3C1}|post job\\post job.csproj|solutionrelative:post job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\apple\\Desktop\\Aitrich bootcamp\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\students\\akhil\\Workshop\\post job\\post job\\Program.cs",
+              "RelativeDocumentMoniker": "post job\\Program.cs",
+              "ToolTip": "C:\\Users\\apple\\Desktop\\Aitrich bootcamp\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\students\\akhil\\Workshop\\post job\\post job\\Program.cs",
+              "RelativeToolTip": "post job\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T05:50:35.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\apple\\source\\repos\\first program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD5BE0-3A94-4953-B8AE-69421214C33F}|first program\\first program.csproj|c:\\users\\apple\\source\\repos\\first program\\first program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD5BE0-3A94-4953-B8AE-69421214C33F}|first program\\first program.csproj|solutionrelative:first program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\apple\\source\\repos\\first program\\first program\\Program.cs",
+              "RelativeDocumentMoniker": "first program\\Program.cs",
+              "ToolTip": "C:\\Users\\apple\\source\\repos\\first program\\first program\\Program.cs",
+              "RelativeToolTip": "first program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:59:34.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\apple\source\repos\sample\sample\obj\Debug\net8.0\sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apple\source\repos\sample\sample\obj\Debug\net8.0\sample.AssemblyInfoInputs.cache
+C:\Users\apple\source\repos\sample\sample\obj\Debug\net8.0\sample.AssemblyInfo.cs
+C:\Users\apple\source\repos\sample\sample\obj\Debug\net8.0\sample.csproj.CoreCompileInputs.cache
+C:\Users\apple\source\repos\sample\sample\bin\Debug\net8.0\sample.exe
+C:\Users\apple\source\repos\sample\sample\bin\Debug\net8.0\sample.deps.json
+C:\Users\apple\source\repos\sample\sample\bin\Debug\net8.0\sample.runtimeconfig.json
+C:\Users\apple\source\repos\sample\sample\bin\Debug\net8.0\sample.dll
+C:\Users\apple\source\repos\sample\sample\bin\Debug\net8.0\sample.pdb
+C:\Users\apple\source\repos\sample\sample\obj\Debug\net8.0\sample.dll
+C:\Users\apple\source\repos\sample\sample\obj\Debug\net8.0\refint\sample.dll
+C:\Users\apple\source\repos\sample\sample\obj\Debug\net8.0\sample.pdb
+C:\Users\apple\source\repos\sample\sample\obj\Debug\net8.0\sample.genruntimeconfig.cache
+C:\Users\apple\source\repos\sample\sample\obj\Debug\net8.0\ref\sample.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fK/IS0JRnMw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\apple\\source\\repos\\first program\\first program\\first program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apple\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
