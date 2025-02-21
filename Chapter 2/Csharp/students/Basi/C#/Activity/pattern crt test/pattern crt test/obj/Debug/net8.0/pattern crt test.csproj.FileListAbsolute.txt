@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\bin\Debug\net8.0\pattern crt test.exe
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\bin\Debug\net8.0\pattern crt test.deps.json
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\bin\Debug\net8.0\pattern crt test.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\bin\Debug\net8.0\pattern crt test.dll
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\bin\Debug\net8.0\pattern crt test.pdb
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\obj\Debug\net8.0\pattern crt test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\obj\Debug\net8.0\pattern crt test.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\obj\Debug\net8.0\pattern crt test.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\obj\Debug\net8.0\pattern crt test.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\obj\Debug\net8.0\pattern crt test.dll
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\obj\Debug\net8.0\refint\pattern crt test.dll
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\obj\Debug\net8.0\pattern crt test.pdb
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\obj\Debug\net8.0\pattern crt test.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\pattern crt test\pattern crt test\obj\Debug\net8.0\ref\pattern crt test.dll

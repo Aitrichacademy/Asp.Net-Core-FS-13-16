@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\bin\Debug\net8.0\pattern-tst.exe
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\bin\Debug\net8.0\pattern-tst.deps.json
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\bin\Debug\net8.0\pattern-tst.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\bin\Debug\net8.0\pattern-tst.dll
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\bin\Debug\net8.0\pattern-tst.pdb
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\obj\Debug\net8.0\pattern-tst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\obj\Debug\net8.0\pattern-tst.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\obj\Debug\net8.0\pattern-tst.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\obj\Debug\net8.0\pattern-tst.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\obj\Debug\net8.0\pattern-tst.dll
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\obj\Debug\net8.0\refint\pattern-tst.dll
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\obj\Debug\net8.0\pattern-tst.pdb
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\obj\Debug\net8.0\pattern-tst.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\pattern-tst\pattern-tst\obj\Debug\net8.0\ref\pattern-tst.dll
