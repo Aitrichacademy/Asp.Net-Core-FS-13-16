@@ -1,15 +1,22 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\hello\\OneDrive\\Desktop\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\",
+=======
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\AJMAL\\OneDrive\\Desktop\\Ahamed Ajmal\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\",
 =======
   "WorkspaceRootPath": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\",
 >>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
+>>>>>>> 15ccef66cef5075e9bcd674791581f9d92b9a237
   "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": []
+=======
 <<<<<<< HEAD
       "DocumentGroups": [
         {
@@ -26,6 +33,7 @@
 =======
       "DocumentGroups": []
 >>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
+>>>>>>> 15ccef66cef5075e9bcd674791581f9d92b9a237
     }
   ]
 }
