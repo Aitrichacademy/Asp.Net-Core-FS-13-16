@@ -1,0 +1,7 @@
+C:\Users\hello\OneDrive\Desktop\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe.config
+C:\Users\hello\OneDrive\Desktop\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe
+C:\Users\hello\OneDrive\Desktop\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.pdb
+C:\Users\hello\OneDrive\Desktop\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.AssemblyReference.cache
+C:\Users\hello\OneDrive\Desktop\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.CoreCompileInputs.cache
+C:\Users\hello\OneDrive\Desktop\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.exe
+C:\Users\hello\OneDrive\Desktop\Asp.Net-Core-FS-13-16\Chapter 2\Csharp\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.pdb
