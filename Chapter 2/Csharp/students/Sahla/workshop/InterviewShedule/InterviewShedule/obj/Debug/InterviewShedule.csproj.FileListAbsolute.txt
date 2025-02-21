@@ -1,0 +1,7 @@
+D:\my space\C#\workshop\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe.config
+D:\my space\C#\workshop\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe
+D:\my space\C#\workshop\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.pdb
+D:\my space\C#\workshop\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.AssemblyReference.cache
+D:\my space\C#\workshop\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.CoreCompileInputs.cache
+D:\my space\C#\workshop\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.exe
+D:\my space\C#\workshop\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.pdb

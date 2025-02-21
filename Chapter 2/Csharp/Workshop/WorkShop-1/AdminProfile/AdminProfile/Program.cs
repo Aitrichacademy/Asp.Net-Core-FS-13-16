@@ -19,6 +19,8 @@ namespace AdminProfile
         static void Main(string[] args)
         {
             adminProfile[] admin = new adminProfile[1];
+            bool isregistered = false;
+            char choice;
 
              string ch;
             Console.WriteLine("-----------------------------------------------------------------------------------------------------------------------------------------------------------------------\n");
@@ -32,9 +34,11 @@ namespace AdminProfile
                 Console.WriteLine("------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n");
                 Console.WriteLine("Select an option from the list\n");
                 string Command = Console.ReadLine();
+
                 switch (Command)
                 {
                     case "A":
+                    case "a":
                         {
 
 
@@ -49,7 +53,8 @@ namespace AdminProfile
                                 Console.Write("Enter the Phone no of Admin : \n");
                             admin[0].Phonenumber = Convert.ToInt64(Console.ReadLine());
                             Console.WriteLine("------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n");
-
+                            isregistered = true;
+                            Console.WriteLine("\nAdmin registered successfully!\n");
 
                             break;
                         }

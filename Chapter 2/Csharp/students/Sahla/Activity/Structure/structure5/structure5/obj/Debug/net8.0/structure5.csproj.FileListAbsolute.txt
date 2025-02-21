@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\bin\Debug\net8.0\structure5.exe
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\bin\Debug\net8.0\structure5.deps.json
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\bin\Debug\net8.0\structure5.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\bin\Debug\net8.0\structure5.dll
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\bin\Debug\net8.0\structure5.pdb
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\obj\Debug\net8.0\structure5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\obj\Debug\net8.0\structure5.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\obj\Debug\net8.0\structure5.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\obj\Debug\net8.0\structure5.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\obj\Debug\net8.0\structure5.dll
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\obj\Debug\net8.0\refint\structure5.dll
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\obj\Debug\net8.0\structure5.pdb
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\obj\Debug\net8.0\structure5.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\structure5\structure5\obj\Debug\net8.0\ref\structure5.dll

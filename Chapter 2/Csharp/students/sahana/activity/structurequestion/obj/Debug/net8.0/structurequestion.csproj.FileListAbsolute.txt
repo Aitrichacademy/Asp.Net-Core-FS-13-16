@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\structurequestion\structurequestion\bin\Debug\net8.0\structurequestion.exe
+C:\Users\USER\source\repos\structurequestion\structurequestion\bin\Debug\net8.0\structurequestion.deps.json
+C:\Users\USER\source\repos\structurequestion\structurequestion\bin\Debug\net8.0\structurequestion.runtimeconfig.json
+C:\Users\USER\source\repos\structurequestion\structurequestion\bin\Debug\net8.0\structurequestion.dll
+C:\Users\USER\source\repos\structurequestion\structurequestion\bin\Debug\net8.0\structurequestion.pdb
+C:\Users\USER\source\repos\structurequestion\structurequestion\obj\Debug\net8.0\structurequestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\structurequestion\structurequestion\obj\Debug\net8.0\structurequestion.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\structurequestion\structurequestion\obj\Debug\net8.0\structurequestion.AssemblyInfo.cs
+C:\Users\USER\source\repos\structurequestion\structurequestion\obj\Debug\net8.0\structurequestion.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\structurequestion\structurequestion\obj\Debug\net8.0\structurequestion.dll
+C:\Users\USER\source\repos\structurequestion\structurequestion\obj\Debug\net8.0\refint\structurequestion.dll
+C:\Users\USER\source\repos\structurequestion\structurequestion\obj\Debug\net8.0\structurequestion.pdb
+C:\Users\USER\source\repos\structurequestion\structurequestion\obj\Debug\net8.0\structurequestion.genruntimeconfig.cache
+C:\Users\USER\source\repos\structurequestion\structurequestion\obj\Debug\net8.0\ref\structurequestion.dll

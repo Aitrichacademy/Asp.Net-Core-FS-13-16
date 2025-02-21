@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\bin\Debug\net8.0\conditionactivity.exe
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\bin\Debug\net8.0\conditionactivity.deps.json
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\bin\Debug\net8.0\conditionactivity.runtimeconfig.json
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\bin\Debug\net8.0\conditionactivity.dll
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\bin\Debug\net8.0\conditionactivity.pdb
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\obj\Debug\net8.0\conditionactivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\obj\Debug\net8.0\conditionactivity.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\obj\Debug\net8.0\conditionactivity.AssemblyInfo.cs
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\obj\Debug\net8.0\conditionactivity.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\obj\Debug\net8.0\conditionactivity.dll
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\obj\Debug\net8.0\refint\conditionactivity.dll
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\obj\Debug\net8.0\conditionactivity.pdb
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\obj\Debug\net8.0\conditionactivity.genruntimeconfig.cache
+C:\Users\USER\source\repos\conditionactivity\conditionactivity\obj\Debug\net8.0\ref\conditionactivity.dll

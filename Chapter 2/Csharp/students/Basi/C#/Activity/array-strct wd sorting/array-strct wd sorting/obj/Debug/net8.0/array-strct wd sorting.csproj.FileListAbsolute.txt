@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\obj\Debug\net8.0\array-strct wd sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\obj\Debug\net8.0\array-strct wd sorting.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\obj\Debug\net8.0\array-strct wd sorting.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\obj\Debug\net8.0\array-strct wd sorting.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\bin\Debug\net8.0\array-strct wd sorting.exe
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\bin\Debug\net8.0\array-strct wd sorting.deps.json
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\bin\Debug\net8.0\array-strct wd sorting.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\bin\Debug\net8.0\array-strct wd sorting.dll
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\bin\Debug\net8.0\array-strct wd sorting.pdb
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\obj\Debug\net8.0\array-strct wd sorting.dll
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\obj\Debug\net8.0\refint\array-strct wd sorting.dll
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\obj\Debug\net8.0\array-strct wd sorting.pdb
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\obj\Debug\net8.0\array-strct wd sorting.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\array-strct wd sorting\array-strct wd sorting\obj\Debug\net8.0\ref\array-strct wd sorting.dll

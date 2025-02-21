@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\mechineTest\mechineTest\bin\Debug\net8.0\mechineTest.exe
+C:\Users\USER\source\repos\mechineTest\mechineTest\bin\Debug\net8.0\mechineTest.deps.json
+C:\Users\USER\source\repos\mechineTest\mechineTest\bin\Debug\net8.0\mechineTest.runtimeconfig.json
+C:\Users\USER\source\repos\mechineTest\mechineTest\bin\Debug\net8.0\mechineTest.dll
+C:\Users\USER\source\repos\mechineTest\mechineTest\bin\Debug\net8.0\mechineTest.pdb
+C:\Users\USER\source\repos\mechineTest\mechineTest\obj\Debug\net8.0\mechineTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\mechineTest\mechineTest\obj\Debug\net8.0\mechineTest.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\mechineTest\mechineTest\obj\Debug\net8.0\mechineTest.AssemblyInfo.cs
+C:\Users\USER\source\repos\mechineTest\mechineTest\obj\Debug\net8.0\mechineTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\mechineTest\mechineTest\obj\Debug\net8.0\mechineTest.dll
+C:\Users\USER\source\repos\mechineTest\mechineTest\obj\Debug\net8.0\refint\mechineTest.dll
+C:\Users\USER\source\repos\mechineTest\mechineTest\obj\Debug\net8.0\mechineTest.pdb
+C:\Users\USER\source\repos\mechineTest\mechineTest\obj\Debug\net8.0\mechineTest.genruntimeconfig.cache
+C:\Users\USER\source\repos\mechineTest\mechineTest\obj\Debug\net8.0\ref\mechineTest.dll

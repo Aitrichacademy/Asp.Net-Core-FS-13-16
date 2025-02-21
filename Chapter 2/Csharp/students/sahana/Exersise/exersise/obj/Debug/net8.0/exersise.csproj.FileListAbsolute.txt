@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\exersise\exersise\bin\Debug\net8.0\exersise.exe
+C:\Users\USER\source\repos\exersise\exersise\bin\Debug\net8.0\exersise.deps.json
+C:\Users\USER\source\repos\exersise\exersise\bin\Debug\net8.0\exersise.runtimeconfig.json
+C:\Users\USER\source\repos\exersise\exersise\bin\Debug\net8.0\exersise.dll
+C:\Users\USER\source\repos\exersise\exersise\bin\Debug\net8.0\exersise.pdb
+C:\Users\USER\source\repos\exersise\exersise\obj\Debug\net8.0\exersise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\exersise\exersise\obj\Debug\net8.0\exersise.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\exersise\exersise\obj\Debug\net8.0\exersise.AssemblyInfo.cs
+C:\Users\USER\source\repos\exersise\exersise\obj\Debug\net8.0\exersise.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\exersise\exersise\obj\Debug\net8.0\exersise.dll
+C:\Users\USER\source\repos\exersise\exersise\obj\Debug\net8.0\refint\exersise.dll
+C:\Users\USER\source\repos\exersise\exersise\obj\Debug\net8.0\exersise.pdb
+C:\Users\USER\source\repos\exersise\exersise\obj\Debug\net8.0\exersise.genruntimeconfig.cache
+C:\Users\USER\source\repos\exersise\exersise\obj\Debug\net8.0\ref\exersise.dll

@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\hello\\OneDrive\\Desktop\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\",
   "Documents": [
     {
@@ -7,6 +8,27 @@
       "RelativeMoniker": "D:0:0:{68E03A76-5627-4CE8-A181-965AD4B32B0D}|InterviewShedule\\InterviewShedule.csproj|solutionrelative:interviewshedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\AJMAL\\OneDrive\\Desktop\\Ahamed Ajmal\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\",
+  "Documents": [],
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Git\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E03A76-5627-4CE8-A181-965AD4B32B0D}|InterviewShedule\\InterviewShedule.csproj|d:\\git\\asp.net-core-fs-13-16\\chapter 2\\csharp\\workshop\\workshop-2\\interviewshedule\\interviewshedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E03A76-5627-4CE8-A181-965AD4B32B0D}|InterviewShedule\\InterviewShedule.csproj|d:\\asp.net-core-fs-13-16\\chapter 2\\csharp\\workshop\\workshop-2\\interviewshedule\\interviewshedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> cd8a51fc57d5615767822bc18bbbde03b8e567e0
+      "RelativeMoniker": "D:0:0:{68E03A76-5627-4CE8-A181-965AD4B32B0D}|InterviewShedule\\InterviewShedule.csproj|solutionrelative:interviewshedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
+>>>>>>> 15ccef66cef5075e9bcd674791581f9d92b9a237
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,12 +36,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "SelectedChildIndex": -1,
+=======
+<<<<<<< HEAD
+>>>>>>> 15ccef66cef5075e9bcd674791581f9d92b9a237
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\hello\\OneDrive\\Desktop\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
               "RelativeDocumentMoniker": "InterviewShedule\\Program.cs",
               "ToolTip": "C:\\Users\\hello\\OneDrive\\Desktop\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
@@ -28,6 +58,39 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T04:47:45.193Z",
               "EditorCaption": ""
+=======
+              "DocumentMoniker": "D:\\Git\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
+              "RelativeDocumentMoniker": "InterviewShedule\\Program.cs",
+              "ToolTip": "D:\\Git\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs*",
+              "RelativeToolTip": "InterviewShedule\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:11:26.083Z",
+=======
+          "SelectedChildIndex": 1,
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
+              "RelativeDocumentMoniker": "InterviewShedule\\Program.cs",
+              "ToolTip": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
+              "RelativeToolTip": "InterviewShedule\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T04:40:25.743Z",
+>>>>>>> cd8a51fc57d5615767822bc18bbbde03b8e567e0
+              "EditorCaption": ""
+>>>>>>> 05a002c0eba4eda6b8839d706c3bf2db09fe30ae
+>>>>>>> 15ccef66cef5075e9bcd674791581f9d92b9a237
             }
           ]
         }

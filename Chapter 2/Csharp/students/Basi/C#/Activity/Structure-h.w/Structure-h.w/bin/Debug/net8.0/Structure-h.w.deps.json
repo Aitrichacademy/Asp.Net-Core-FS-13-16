@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Structure-h.w/1.0.0": {
+        "runtime": {
+          "Structure-h.w.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Structure-h.w/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
