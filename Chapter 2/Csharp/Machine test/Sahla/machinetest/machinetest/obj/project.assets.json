@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\students\\Sahla\\Activity\\Array manipulation\\arrayqstn3a\\arrayqstn3a\\arrayqstn3a.csproj",
-      "projectName": "arrayqstn3a",
-      "projectPath": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\students\\Sahla\\Activity\\Array manipulation\\arrayqstn3a\\arrayqstn3a\\arrayqstn3a.csproj",
+      "projectUniqueName": "C:\\Users\\Sahla Yasmine\\source\\repos\\machinetest\\machinetest\\machinetest.csproj",
+      "projectName": "machinetest",
+      "projectPath": "C:\\Users\\Sahla Yasmine\\source\\repos\\machinetest\\machinetest\\machinetest.csproj",
       "packagesPath": "C:\\Users\\Sahla Yasmine\\.nuget\\packages\\",
-      "outputPath": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\students\\Sahla\\Activity\\Array manipulation\\arrayqstn3a\\arrayqstn3a\\obj\\",
+      "outputPath": "C:\\Users\\Sahla Yasmine\\source\\repos\\machinetest\\machinetest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
