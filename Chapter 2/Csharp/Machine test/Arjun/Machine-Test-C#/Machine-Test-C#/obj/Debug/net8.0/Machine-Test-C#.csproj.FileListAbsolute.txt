@@ -1,0 +1,14 @@
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\bin\Debug\net8.0\Machine-Test-C#.exe
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\bin\Debug\net8.0\Machine-Test-C#.deps.json
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\bin\Debug\net8.0\Machine-Test-C#.runtimeconfig.json
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\bin\Debug\net8.0\Machine-Test-C#.dll
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\bin\Debug\net8.0\Machine-Test-C#.pdb
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\obj\Debug\net8.0\Machine-Test-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\obj\Debug\net8.0\Machine-Test-C#.AssemblyInfoInputs.cache
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\obj\Debug\net8.0\Machine-Test-C#.AssemblyInfo.cs
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\obj\Debug\net8.0\Machine-Test-C#.csproj.CoreCompileInputs.cache
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\obj\Debug\net8.0\Machine-Test-C#.dll
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\obj\Debug\net8.0\refint\Machine-Test-C#.dll
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\obj\Debug\net8.0\Machine-Test-C#.pdb
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\obj\Debug\net8.0\Machine-Test-C#.genruntimeconfig.cache
+C:\Users\hello\source\repos\Machine-Test-C#\Machine-Test-C#\obj\Debug\net8.0\ref\Machine-Test-C#.dll
