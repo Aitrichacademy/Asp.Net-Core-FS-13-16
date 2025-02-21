@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\bin\Debug\net8.0\machinetest.exe
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\bin\Debug\net8.0\machinetest.deps.json
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\bin\Debug\net8.0\machinetest.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\bin\Debug\net8.0\machinetest.dll
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\bin\Debug\net8.0\machinetest.pdb
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\obj\Debug\net8.0\machinetest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\obj\Debug\net8.0\machinetest.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\obj\Debug\net8.0\machinetest.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\obj\Debug\net8.0\machinetest.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\obj\Debug\net8.0\machinetest.dll
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\obj\Debug\net8.0\refint\machinetest.dll
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\obj\Debug\net8.0\machinetest.pdb
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\obj\Debug\net8.0\machinetest.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\machinetest\machinetest\obj\Debug\net8.0\ref\machinetest.dll
