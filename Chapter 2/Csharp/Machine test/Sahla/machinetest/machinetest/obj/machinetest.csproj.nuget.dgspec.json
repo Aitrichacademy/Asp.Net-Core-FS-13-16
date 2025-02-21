@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sahla Yasmine\\source\\repos\\machinetest\\machinetest\\machinetest.csproj": {}
+    "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Machine test\\Sahla\\machinetest\\machinetest\\machinetest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sahla Yasmine\\source\\repos\\machinetest\\machinetest\\machinetest.csproj": {
+    "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Machine test\\Sahla\\machinetest\\machinetest\\machinetest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sahla Yasmine\\source\\repos\\machinetest\\machinetest\\machinetest.csproj",
+        "projectUniqueName": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Machine test\\Sahla\\machinetest\\machinetest\\machinetest.csproj",
         "projectName": "machinetest",
-        "projectPath": "C:\\Users\\Sahla Yasmine\\source\\repos\\machinetest\\machinetest\\machinetest.csproj",
+        "projectPath": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Machine test\\Sahla\\machinetest\\machinetest\\machinetest.csproj",
         "packagesPath": "C:\\Users\\Sahla Yasmine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sahla Yasmine\\source\\repos\\machinetest\\machinetest\\obj\\",
+        "outputPath": "D:\\Asp.Net-Core-FS-13-16\\Chapter 2\\Csharp\\Machine test\\Sahla\\machinetest\\machinetest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
