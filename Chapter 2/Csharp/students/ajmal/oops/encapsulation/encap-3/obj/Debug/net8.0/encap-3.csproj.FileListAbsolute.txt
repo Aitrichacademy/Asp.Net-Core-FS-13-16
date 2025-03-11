@@ -1,0 +1,14 @@
+C:\Users\AJMAL\source\repos\encap-3\bin\Debug\net8.0\encap-3.exe
+C:\Users\AJMAL\source\repos\encap-3\bin\Debug\net8.0\encap-3.deps.json
+C:\Users\AJMAL\source\repos\encap-3\bin\Debug\net8.0\encap-3.runtimeconfig.json
+C:\Users\AJMAL\source\repos\encap-3\bin\Debug\net8.0\encap-3.dll
+C:\Users\AJMAL\source\repos\encap-3\bin\Debug\net8.0\encap-3.pdb
+C:\Users\AJMAL\source\repos\encap-3\obj\Debug\net8.0\encap-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJMAL\source\repos\encap-3\obj\Debug\net8.0\encap-3.AssemblyInfoInputs.cache
+C:\Users\AJMAL\source\repos\encap-3\obj\Debug\net8.0\encap-3.AssemblyInfo.cs
+C:\Users\AJMAL\source\repos\encap-3\obj\Debug\net8.0\encap-3.csproj.CoreCompileInputs.cache
+C:\Users\AJMAL\source\repos\encap-3\obj\Debug\net8.0\encap-3.dll
+C:\Users\AJMAL\source\repos\encap-3\obj\Debug\net8.0\refint\encap-3.dll
+C:\Users\AJMAL\source\repos\encap-3\obj\Debug\net8.0\encap-3.pdb
+C:\Users\AJMAL\source\repos\encap-3\obj\Debug\net8.0\encap-3.genruntimeconfig.cache
+C:\Users\AJMAL\source\repos\encap-3\obj\Debug\net8.0\ref\encap-3.dll

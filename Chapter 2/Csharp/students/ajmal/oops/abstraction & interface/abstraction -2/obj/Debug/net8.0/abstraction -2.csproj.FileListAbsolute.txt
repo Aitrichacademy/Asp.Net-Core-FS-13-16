@@ -1,0 +1,14 @@
+C:\Users\AJMAL\source\repos\abstraction -2\bin\Debug\net8.0\abstraction -2.exe
+C:\Users\AJMAL\source\repos\abstraction -2\bin\Debug\net8.0\abstraction -2.deps.json
+C:\Users\AJMAL\source\repos\abstraction -2\bin\Debug\net8.0\abstraction -2.runtimeconfig.json
+C:\Users\AJMAL\source\repos\abstraction -2\bin\Debug\net8.0\abstraction -2.dll
+C:\Users\AJMAL\source\repos\abstraction -2\bin\Debug\net8.0\abstraction -2.pdb
+C:\Users\AJMAL\source\repos\abstraction -2\obj\Debug\net8.0\abstraction -2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJMAL\source\repos\abstraction -2\obj\Debug\net8.0\abstraction -2.AssemblyInfoInputs.cache
+C:\Users\AJMAL\source\repos\abstraction -2\obj\Debug\net8.0\abstraction -2.AssemblyInfo.cs
+C:\Users\AJMAL\source\repos\abstraction -2\obj\Debug\net8.0\abstraction -2.csproj.CoreCompileInputs.cache
+C:\Users\AJMAL\source\repos\abstraction -2\obj\Debug\net8.0\abstraction -2.dll
+C:\Users\AJMAL\source\repos\abstraction -2\obj\Debug\net8.0\refint\abstraction -2.dll
+C:\Users\AJMAL\source\repos\abstraction -2\obj\Debug\net8.0\abstraction -2.pdb
+C:\Users\AJMAL\source\repos\abstraction -2\obj\Debug\net8.0\abstraction -2.genruntimeconfig.cache
+C:\Users\AJMAL\source\repos\abstraction -2\obj\Debug\net8.0\ref\abstraction -2.dll
