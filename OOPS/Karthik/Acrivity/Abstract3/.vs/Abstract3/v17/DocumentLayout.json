@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karth\\source\\repos\\Abstract3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09F409D-6A39-4372-8E58-225EBA4C2D52}|Abstract3\\Abstract3.csproj|c:\\users\\karth\\source\\repos\\abstract3\\abstract3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09F409D-6A39-4372-8E58-225EBA4C2D52}|Abstract3\\Abstract3.csproj|solutionrelative:abstract3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\Abstract3\\Abstract3\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract3\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\Abstract3\\Abstract3\\Program.cs",
+              "RelativeToolTip": "Abstract3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:08:37.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

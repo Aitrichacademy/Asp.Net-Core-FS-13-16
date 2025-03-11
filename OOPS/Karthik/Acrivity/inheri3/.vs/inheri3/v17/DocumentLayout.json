@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karth\\source\\repos\\inheri3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{050C83C4-F20D-482C-BA85-761F10BAC0C8}|inheri3\\inheri3.csproj|c:\\users\\karth\\source\\repos\\inheri3\\inheri3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050C83C4-F20D-482C-BA85-761F10BAC0C8}|inheri3\\inheri3.csproj|solutionrelative:inheri3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\inheri3\\inheri3\\Program.cs",
+              "RelativeDocumentMoniker": "inheri3\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\inheri3\\inheri3\\Program.cs",
+              "RelativeToolTip": "inheri3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:33:58.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
