@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\bin\Debug\net8.0\inheritanceM1.exe
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\bin\Debug\net8.0\inheritanceM1.deps.json
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\bin\Debug\net8.0\inheritanceM1.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\bin\Debug\net8.0\inheritanceM1.dll
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\bin\Debug\net8.0\inheritanceM1.pdb
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\obj\Debug\net8.0\inheritanceM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\obj\Debug\net8.0\inheritanceM1.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\obj\Debug\net8.0\inheritanceM1.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\obj\Debug\net8.0\inheritanceM1.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\obj\Debug\net8.0\inheritanceM1.dll
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\obj\Debug\net8.0\refint\inheritanceM1.dll
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\obj\Debug\net8.0\inheritanceM1.pdb
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\obj\Debug\net8.0\inheritanceM1.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\inheritanceM1\inheritanceM1\obj\Debug\net8.0\ref\inheritanceM1.dll
