@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\bin\Debug\net8.0\Abstract-2.exe
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\bin\Debug\net8.0\Abstract-2.deps.json
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\bin\Debug\net8.0\Abstract-2.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\bin\Debug\net8.0\Abstract-2.dll
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\bin\Debug\net8.0\Abstract-2.pdb
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\obj\Debug\net8.0\Abstract-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\obj\Debug\net8.0\Abstract-2.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\obj\Debug\net8.0\Abstract-2.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\obj\Debug\net8.0\Abstract-2.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\obj\Debug\net8.0\Abstract-2.dll
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\obj\Debug\net8.0\refint\Abstract-2.dll
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\obj\Debug\net8.0\Abstract-2.pdb
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\obj\Debug\net8.0\Abstract-2.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\Abstract-2\Abstract-2\obj\Debug\net8.0\ref\Abstract-2.dll

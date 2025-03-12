@@ -1,0 +1,14 @@
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\bin\Debug\net8.0\enc-psswrd.exe
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\bin\Debug\net8.0\enc-psswrd.deps.json
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\bin\Debug\net8.0\enc-psswrd.runtimeconfig.json
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\bin\Debug\net8.0\enc-psswrd.dll
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\bin\Debug\net8.0\enc-psswrd.pdb
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\obj\Debug\net8.0\enc-psswrd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\obj\Debug\net8.0\enc-psswrd.AssemblyInfoInputs.cache
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\obj\Debug\net8.0\enc-psswrd.AssemblyInfo.cs
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\obj\Debug\net8.0\enc-psswrd.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\obj\Debug\net8.0\enc-psswrd.dll
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\obj\Debug\net8.0\refint\enc-psswrd.dll
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\obj\Debug\net8.0\enc-psswrd.pdb
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\obj\Debug\net8.0\enc-psswrd.genruntimeconfig.cache
+C:\Users\ABDUL BASITH\source\repos\enc-psswrd\enc-psswrd\obj\Debug\net8.0\ref\enc-psswrd.dll
