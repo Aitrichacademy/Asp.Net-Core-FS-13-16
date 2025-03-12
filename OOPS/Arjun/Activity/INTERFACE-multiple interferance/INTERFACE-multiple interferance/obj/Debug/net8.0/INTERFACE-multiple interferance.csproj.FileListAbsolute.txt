@@ -1,0 +1,4 @@
+C:\Users\hello\source\repos\INTERFACE-multiple interferance\INTERFACE-multiple interferance\obj\Debug\net8.0\INTERFACE-multiple interferance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hello\source\repos\INTERFACE-multiple interferance\INTERFACE-multiple interferance\obj\Debug\net8.0\INTERFACE-multiple interferance.AssemblyInfoInputs.cache
+C:\Users\hello\source\repos\INTERFACE-multiple interferance\INTERFACE-multiple interferance\obj\Debug\net8.0\INTERFACE-multiple interferance.AssemblyInfo.cs
+C:\Users\hello\source\repos\INTERFACE-multiple interferance\INTERFACE-multiple interferance\obj\Debug\net8.0\INTERFACE-multiple interferance.csproj.CoreCompileInputs.cache

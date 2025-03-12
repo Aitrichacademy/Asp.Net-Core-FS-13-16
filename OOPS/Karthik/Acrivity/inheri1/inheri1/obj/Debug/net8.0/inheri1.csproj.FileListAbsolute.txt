@@ -1,0 +1,14 @@
+C:\Users\karth\source\repos\inheri1\inheri1\bin\Debug\net8.0\inheri1.exe
+C:\Users\karth\source\repos\inheri1\inheri1\bin\Debug\net8.0\inheri1.deps.json
+C:\Users\karth\source\repos\inheri1\inheri1\bin\Debug\net8.0\inheri1.runtimeconfig.json
+C:\Users\karth\source\repos\inheri1\inheri1\bin\Debug\net8.0\inheri1.dll
+C:\Users\karth\source\repos\inheri1\inheri1\bin\Debug\net8.0\inheri1.pdb
+C:\Users\karth\source\repos\inheri1\inheri1\obj\Debug\net8.0\inheri1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\inheri1\inheri1\obj\Debug\net8.0\inheri1.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\inheri1\inheri1\obj\Debug\net8.0\inheri1.AssemblyInfo.cs
+C:\Users\karth\source\repos\inheri1\inheri1\obj\Debug\net8.0\inheri1.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\inheri1\inheri1\obj\Debug\net8.0\inheri1.dll
+C:\Users\karth\source\repos\inheri1\inheri1\obj\Debug\net8.0\refint\inheri1.dll
+C:\Users\karth\source\repos\inheri1\inheri1\obj\Debug\net8.0\inheri1.pdb
+C:\Users\karth\source\repos\inheri1\inheri1\obj\Debug\net8.0\inheri1.genruntimeconfig.cache
+C:\Users\karth\source\repos\inheri1\inheri1\obj\Debug\net8.0\ref\inheri1.dll

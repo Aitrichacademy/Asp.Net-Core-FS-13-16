@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sahla Yasmine\\source\\repos\\abstract1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21D0E7-E66D-448C-A52A-2CE88192AF97}|abstract1\\abstract1.csproj|c:\\users\\sahla yasmine\\source\\repos\\abstract1\\abstract1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B21D0E7-E66D-448C-A52A-2CE88192AF97}|abstract1\\abstract1.csproj|solutionrelative:abstract1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sahla Yasmine\\source\\repos\\abstract1\\abstract1\\Program.cs",
+              "RelativeDocumentMoniker": "abstract1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sahla Yasmine\\source\\repos\\abstract1\\abstract1\\Program.cs",
+              "RelativeToolTip": "abstract1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:01:04.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

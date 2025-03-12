@@ -1,0 +1,14 @@
+C:\Users\karth\source\repos\Encaps3\Encaps3\bin\Debug\net8.0\Encaps3.exe
+C:\Users\karth\source\repos\Encaps3\Encaps3\bin\Debug\net8.0\Encaps3.deps.json
+C:\Users\karth\source\repos\Encaps3\Encaps3\bin\Debug\net8.0\Encaps3.runtimeconfig.json
+C:\Users\karth\source\repos\Encaps3\Encaps3\bin\Debug\net8.0\Encaps3.dll
+C:\Users\karth\source\repos\Encaps3\Encaps3\bin\Debug\net8.0\Encaps3.pdb
+C:\Users\karth\source\repos\Encaps3\Encaps3\obj\Debug\net8.0\Encaps3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\Encaps3\Encaps3\obj\Debug\net8.0\Encaps3.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\Encaps3\Encaps3\obj\Debug\net8.0\Encaps3.AssemblyInfo.cs
+C:\Users\karth\source\repos\Encaps3\Encaps3\obj\Debug\net8.0\Encaps3.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\Encaps3\Encaps3\obj\Debug\net8.0\Encaps3.dll
+C:\Users\karth\source\repos\Encaps3\Encaps3\obj\Debug\net8.0\refint\Encaps3.dll
+C:\Users\karth\source\repos\Encaps3\Encaps3\obj\Debug\net8.0\Encaps3.pdb
+C:\Users\karth\source\repos\Encaps3\Encaps3\obj\Debug\net8.0\Encaps3.genruntimeconfig.cache
+C:\Users\karth\source\repos\Encaps3\Encaps3\obj\Debug\net8.0\ref\Encaps3.dll

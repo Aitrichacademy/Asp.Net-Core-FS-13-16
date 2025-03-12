@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\bin\Debug\net8.0\abstract4.exe
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\bin\Debug\net8.0\abstract4.deps.json
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\bin\Debug\net8.0\abstract4.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\bin\Debug\net8.0\abstract4.dll
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\bin\Debug\net8.0\abstract4.pdb
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\obj\Debug\net8.0\abstract4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\obj\Debug\net8.0\abstract4.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\obj\Debug\net8.0\abstract4.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\obj\Debug\net8.0\abstract4.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\obj\Debug\net8.0\abstract4.dll
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\obj\Debug\net8.0\refint\abstract4.dll
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\obj\Debug\net8.0\abstract4.pdb
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\obj\Debug\net8.0\abstract4.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\abstract4\abstract4\obj\Debug\net8.0\ref\abstract4.dll

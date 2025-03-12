@@ -1,0 +1,14 @@
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\bin\Debug\net8.0\abstract1.exe
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\bin\Debug\net8.0\abstract1.deps.json
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\bin\Debug\net8.0\abstract1.runtimeconfig.json
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\bin\Debug\net8.0\abstract1.dll
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\bin\Debug\net8.0\abstract1.pdb
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\obj\Debug\net8.0\abstract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\obj\Debug\net8.0\abstract1.AssemblyInfoInputs.cache
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\obj\Debug\net8.0\abstract1.AssemblyInfo.cs
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\obj\Debug\net8.0\abstract1.csproj.CoreCompileInputs.cache
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\obj\Debug\net8.0\abstract1.dll
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\obj\Debug\net8.0\refint\abstract1.dll
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\obj\Debug\net8.0\abstract1.pdb
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\obj\Debug\net8.0\abstract1.genruntimeconfig.cache
+C:\Users\Sahla Yasmine\source\repos\abstract1\abstract1\obj\Debug\net8.0\ref\abstract1.dll

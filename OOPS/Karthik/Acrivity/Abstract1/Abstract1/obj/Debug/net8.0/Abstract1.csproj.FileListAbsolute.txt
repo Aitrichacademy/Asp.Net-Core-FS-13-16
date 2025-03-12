@@ -1,0 +1,14 @@
+C:\Users\karth\source\repos\Abstract1\Abstract1\bin\Debug\net8.0\Abstract1.exe
+C:\Users\karth\source\repos\Abstract1\Abstract1\bin\Debug\net8.0\Abstract1.deps.json
+C:\Users\karth\source\repos\Abstract1\Abstract1\bin\Debug\net8.0\Abstract1.runtimeconfig.json
+C:\Users\karth\source\repos\Abstract1\Abstract1\bin\Debug\net8.0\Abstract1.dll
+C:\Users\karth\source\repos\Abstract1\Abstract1\bin\Debug\net8.0\Abstract1.pdb
+C:\Users\karth\source\repos\Abstract1\Abstract1\obj\Debug\net8.0\Abstract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\source\repos\Abstract1\Abstract1\obj\Debug\net8.0\Abstract1.AssemblyInfoInputs.cache
+C:\Users\karth\source\repos\Abstract1\Abstract1\obj\Debug\net8.0\Abstract1.AssemblyInfo.cs
+C:\Users\karth\source\repos\Abstract1\Abstract1\obj\Debug\net8.0\Abstract1.csproj.CoreCompileInputs.cache
+C:\Users\karth\source\repos\Abstract1\Abstract1\obj\Debug\net8.0\Abstract1.dll
+C:\Users\karth\source\repos\Abstract1\Abstract1\obj\Debug\net8.0\refint\Abstract1.dll
+C:\Users\karth\source\repos\Abstract1\Abstract1\obj\Debug\net8.0\Abstract1.pdb
+C:\Users\karth\source\repos\Abstract1\Abstract1\obj\Debug\net8.0\Abstract1.genruntimeconfig.cache
+C:\Users\karth\source\repos\Abstract1\Abstract1\obj\Debug\net8.0\ref\Abstract1.dll

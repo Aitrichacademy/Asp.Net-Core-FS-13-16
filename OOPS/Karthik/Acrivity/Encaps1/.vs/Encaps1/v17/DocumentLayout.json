@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karth\\source\\repos\\Encaps1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E8D8C2-A453-4D13-9F8A-2FC0DA176B3E}|Encaps1\\Encaps1.csproj|c:\\users\\karth\\source\\repos\\encaps1\\encaps1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E8D8C2-A453-4D13-9F8A-2FC0DA176B3E}|Encaps1\\Encaps1.csproj|solutionrelative:encaps1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\source\\repos\\Encaps1\\Encaps1\\Program.cs",
+              "RelativeDocumentMoniker": "Encaps1\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\source\\repos\\Encaps1\\Encaps1\\Program.cs",
+              "RelativeToolTip": "Encaps1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:15:22.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
