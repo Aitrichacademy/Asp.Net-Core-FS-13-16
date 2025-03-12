@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hello\\source\\repos\\INTERFACE-multiple interferance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E253DD-2ACC-4FB1-B787-2A7719034BCE}|INTERFACE-multiple interferance\\INTERFACE-multiple interferance.csproj|c:\\users\\hello\\source\\repos\\interface-multiple interferance\\interface-multiple interferance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E253DD-2ACC-4FB1-B787-2A7719034BCE}|INTERFACE-multiple interferance\\INTERFACE-multiple interferance.csproj|solutionrelative:interface-multiple interferance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hello\\source\\repos\\INTERFACE-multiple interferance\\INTERFACE-multiple interferance\\Program.cs",
+              "RelativeDocumentMoniker": "INTERFACE-multiple interferance\\Program.cs",
+              "ToolTip": "C:\\Users\\hello\\source\\repos\\INTERFACE-multiple interferance\\INTERFACE-multiple interferance\\Program.cs*",
+              "RelativeToolTip": "INTERFACE-multiple interferance\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:19:27.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
